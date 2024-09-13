@@ -72,5 +72,6 @@ namespace exercise.pizzashopapi.Repository
         {
             return await _db.Customers.ToListAsync();
         }
+       
     }
 }

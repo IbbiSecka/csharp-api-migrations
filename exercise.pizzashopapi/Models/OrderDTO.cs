@@ -7,6 +7,6 @@
         public string Customer { get; set; }
         public string Pizza { get; set; }
         public DateTime OrderTime { get; set; }
-
+        public string StatusOfOrder { get; set; }
     }
 }
